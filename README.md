@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This project showcases a simple HTML page (a main one). 
+This project showcases simple HTML pages. 
 
 The main page `index.html` will have links to recipes.
 
